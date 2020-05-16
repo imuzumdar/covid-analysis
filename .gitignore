@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # pkgdown site
 docs/
+
+# ds_store
+.DS_Store
