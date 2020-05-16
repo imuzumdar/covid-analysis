@@ -10,9 +10,8 @@ If you're interested in learning more about this project, please feel free to co
 ## Analysis Overview
 To characterize attitudes of the general public, I scraped Twitter data and performed some basic text mining to understand
 relevant sentiments with regard to the pandemic. I performed some text cleaning using regex expressions and then tokenized
-the tweets to remove stop words and create some simple visualizations. In this repo, you'll find a wordcloud I created, but
-I also plotted frequency charts for common sentiments of tweets and geolocation data to measure twitter activity related to
-covid-19 across the country.
+the tweets to remove stop words and create some simple visualizations. In this repo, you'll find a wordcloud I created and
+a frequency plot of common sentiments related to covid-19. In the future, I plan to analyze geolocation data to investigate Twitter activity related to covid-19 across the country.
 
 To measure the attitudes of physicians, I analyzed survey data collected from a tertiary hopstial. I then performed a variety of
 statistical analyses. I performed nonparametric tests with repeated measures to capture levels of agreement across different 
