@@ -16,7 +16,7 @@ a frequency plot of common sentiments related to covid-19. In the future, I plan
 To measure the attitudes of physicians, I analyzed survey data collected from a tertiary hopstial. I then performed a variety of
 statistical analyses. I performed nonparametric tests with repeated measures to capture levels of agreement across different 
 demographic groups, fit weighted ML-inference learn-to-rank models to determine which government agencies physicians trusted the most,
-develop graph networks to visualize these rankings, and built ordinal logistic classifiers to measure the following:
+created graph networks to visualize these rankings, and built ordinal logistic classifiers to measure the following:
 
 1. Physicians' concerns related to SARS-CoV-2
 2. Physicians' trust in current recommendations
