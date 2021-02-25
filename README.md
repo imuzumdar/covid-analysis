@@ -22,6 +22,4 @@ created graph networks to visualize these rankings, and built ordinal logistic c
 2. Physicians' trust in current recommendations
 3. Physicians' attitudes toward trainee roles during the pandemic
 
-Since the data set contained over 30 response variables of interest, I also wrote automated scripts to clean the data, fit models,
-perform model selection, and check all model diagnostics. Again, if you're interestd in learning more, feel free to email me
-or view some of the visualizations and pdfs contained in this repo!
+Since the data set contained over 30 response variables of interest, I also wrote automated scripts to clean the data, fit models, perform model selection, and check all model diagnostics. Building this pipeline resulted in a 71 percent improvement in core analysis time. Again, if you're interestd in learning more, feel free to email me or view some of the visualizations and pdfs contained in this repo!
